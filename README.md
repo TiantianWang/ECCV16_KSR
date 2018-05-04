@@ -25,7 +25,7 @@ Download pretrained SDS model from [SDS](https://www2.eecs.berkeley.edu/Research
 2. Test: run `runme_test.m` to generate saliency maps in the `./saliency_map` folder. 
 
 ## Our Trained Model
-Download trained models from [Baidu drive](http://pan.baidu.com/s/1boKHG2V) or Google drive. Then put it into the `./trained_model` folder.
+Download trained models from [Baidu drive](http://pan.baidu.com/s/1boKHG2V) or [Google drive](https://drive.google.com/open?id=0B_MpGgTntG47WVU3NEUwNlBYczg). Then put it into the `./trained_model` folder.
 
 ## Contact
 tiantianwang.ice@gmail.com
