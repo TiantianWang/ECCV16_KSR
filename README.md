@@ -1,15 +1,8 @@
 # Kernelized Subspace Ranking for Saliency Detection
 This package has the source code for the paper "Kernelized Subspace Ranking for Saliency Detection" (ECCV16).
 
-## Citing this work
-If you find this work useful in your research, please consider citing:
-
-     @inproceedings{wangeccv16,
-        Author={Tiantian Wang and Lihe Zhang and Huchuan Lu and Chong Sun and Jinqing Qi},
-        Title={Kernelized Subspace Ranking for Saliency Detection},
-        Booktitle={European Conference on Computer Vision (ECCV)},
-        Year={2016}
-     }
+# Paper link
+The paper can be found in [Baidu Drive](https://pan.baidu.com/s/1yLvqtZmLyvo2zk4Iuel5qg) or [Google Drive](https://drive.google.com/open?id=1j1MbiY1v6Bf1S9FWyWkvFOBRmgO0fUc-).
 
 ## Installation
 1. Install prerequsites for `Caffe` (see: [Caffe installation instructions](http://caffe.berkeleyvision.org/installation.html))
@@ -26,6 +19,16 @@ Download pretrained SDS model from [Baidu Drive](https://pan.baidu.com/s/1ZIhSyF
 
 ## Our Trained Model
 Download trained models from [Baidu Drive](http://pan.baidu.com/s/1boKHG2V) or [Google Drive](https://drive.google.com/open?id=0B_MpGgTntG47WVU3NEUwNlBYczg). Then put it into the `./trained_model` folder.
+
+## Citing this work
+If you find this work useful in your research, please consider citing:
+
+     @inproceedings{wangeccv16,
+        Author={Tiantian Wang and Lihe Zhang and Huchuan Lu and Chong Sun and Jinqing Qi},
+        Title={Kernelized Subspace Ranking for Saliency Detection},
+        Booktitle={European Conference on Computer Vision (ECCV)},
+        Year={2016}
+     }
 
 ## Contact
 tiantianwang.ice@gmail.com
