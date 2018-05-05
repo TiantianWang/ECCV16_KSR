@@ -17,7 +17,7 @@ If you find this work useful in your research, please consider citing:
 3. Compile the `./gop_1.3` submodule.
 
 ## Prerequisites
-Download pretrained SDS model from [Baidu Drive](https://pan.baidu.com/s/1ZIhSyF47PA-MwF77oKaqhw) or [Google Drive](https://pan.baidu.com/s/1ZIhSyF47PA-MwF77oKaqhw). Then put it into the `./sds_eccv2014-master` folder.
+Download pretrained SDS model from [Baidu Drive](https://pan.baidu.com/s/1ZIhSyF47PA-MwF77oKaqhw) or [Google Drive](https://drive.google.com/open?id=1rXIjs2NidrBa_SV7wZ8nc_hYIXrY4xFH). Then put it into the `./sds_eccv2014-master` folder.
 
 ## Train & Test
 
