@@ -20,6 +20,9 @@ Download pretrained SDS model from [Baidu Drive](https://pan.baidu.com/s/1ZIhSyF
 ## Our Trained Model
 Download trained models from [Baidu Drive](http://pan.baidu.com/s/1boKHG2V) or [Google Drive](https://drive.google.com/open?id=0B_MpGgTntG47WVU3NEUwNlBYczg). Then put it into the `./trained_model` folder.
 
+## Saliency Map
+Download saliency map from [Baidu Drive](https://pan.baidu.com/s/1x54t0Fde-0TsP1_pvo8sVg) or [Google Drive](). 
+
 ## Citing this work
 If you find this work useful in your research, please consider citing:
 
